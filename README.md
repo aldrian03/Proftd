@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, and cloud technologies**
 - 👯 I’m looking to collaborate on **open-source and community-driven projects**
 - 💬 Ask me about **JavaScript, React, or anything tech!**
-- 📫 How to reach me: **aldriancayomoc.com**
+- 📫 How to reach me: **aldriancayomoc@gmail.com**
 - ⚡ Fun fact: I can debug code faster than I can decide what to eat 😅
 
 ---
