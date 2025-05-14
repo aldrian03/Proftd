@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yorme</h1>
-<h3 align="center">A passionate developer who loves building cool things 🚀</h3>
+<h3 align="center">A passionate frontend developer who loves building cool things 🚀</h3>
 
 - 🔭 I’m currently working on **awesome personal projects**
 - 🌱 I’m currently learning **Next.js, TypeScript, and cloud technologies**
 - 👯 I’m looking to collaborate on **open-source and community-driven projects**
 - 💬 Ask me about **JavaScript, React, or anything tech!**
-- 📫 How to reach me: **yorme@example.com**
+- 📫 How to reach me: **aldriancayomoc.com**
 - ⚡ Fun fact: I can debug code faster than I can decide what to eat 😅
 
 ---
